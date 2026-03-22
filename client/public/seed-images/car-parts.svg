@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="Car parts">
+  <rect width="1200" height="800" fill="#f8fafc"/>
+  <g fill="#d1d5db" stroke="#374151" stroke-width="8">
+    <circle cx="350" cy="420" r="140"/>
+    <circle cx="350" cy="420" r="40" fill="#9ca3af"/>
+    <circle cx="760" cy="440" r="110"/>
+    <rect x="890" y="300" width="190" height="220" rx="20"/>
+    <rect x="930" y="350" width="110" height="120" rx="10" fill="#9ca3af"/>
+  </g>
+  <path d="M560 280c70 0 130 60 130 130v140h-80V410c0-26-24-50-50-50h-70v-80h70z" fill="#111827"/>
+  <text x="600" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="56" fill="#111827">Car Spare Parts</text>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="Engine parts">
+  <rect width="1200" height="800" fill="#f8fafc"/>
+  <g fill="#9ca3af" stroke="#374151" stroke-width="10">
+    <rect x="370" y="250" width="460" height="300" rx="24"/>
+    <rect x="430" y="180" width="120" height="90" rx="14"/>
+    <rect x="650" y="180" width="120" height="90" rx="14"/>
+    <circle cx="480" cy="400" r="55" fill="#d1d5db"/>
+    <circle cx="600" cy="400" r="55" fill="#d1d5db"/>
+    <circle cx="720" cy="400" r="55" fill="#d1d5db"/>
+    <rect x="845" y="320" width="90" height="140" rx="12"/>
+  </g>
+  <text x="600" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="56" fill="#111827">Engine Parts</text>
+</svg>

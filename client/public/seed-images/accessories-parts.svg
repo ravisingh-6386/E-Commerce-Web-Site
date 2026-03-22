@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="Accessories parts">
+  <rect width="1200" height="800" fill="#f8fafc"/>
+  <g fill="#e5e7eb" stroke="#374151" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="180" y="250" width="220" height="220" rx="24"/>
+    <rect x="480" y="220" width="240" height="300" rx="24"/>
+    <circle cx="900" cy="390" r="120"/>
+    <circle cx="900" cy="390" r="40" fill="#9ca3af"/>
+  </g>
+  <path d="M270 350h40v80h80v40h-80v80h-40v-80h-80v-40h80z" fill="#2563eb"/>
+  <path d="M560 300l45 55 70-10-35 60 35 60-70-10-45 55-20-68-68-23 58-37-2-73 52 42z" fill="#f59e0b"/>
+  <text x="600" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="56" fill="#111827">Accessories Parts</text>
+</svg>

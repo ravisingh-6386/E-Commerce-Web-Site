@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="Superbike parts">
+  <rect width="1200" height="800" fill="#f8fafc"/>
+  <g fill="none" stroke="#111827" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M250 500h220l120-120h220l140 120h70"/>
+    <circle cx="340" cy="520" r="95"/>
+    <circle cx="860" cy="520" r="95"/>
+    <path d="M600 380l90-100"/>
+  </g>
+  <g fill="#dc2626">
+    <path d="M480 420h220l-50 70H450z"/>
+  </g>
+  <text x="600" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="56" fill="#111827">Superbike Parts</text>
+</svg>
